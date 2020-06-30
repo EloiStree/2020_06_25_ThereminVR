@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.thereminvr",                              
+  "displayName": "Theremin VR",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Tool to simulate a basic theremin in virtual reality.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://gitlab.com/EloiStree/2020_06_25_ThereminVR.git",
+"footprint":"",
+"revision":"4d4fd9fcf2f930da3502ef3e2de311e5a6f00d67"},     
+  "category": "Script"                   
+} 
