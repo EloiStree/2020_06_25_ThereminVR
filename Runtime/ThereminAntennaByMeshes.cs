@@ -85,7 +85,7 @@ public class ThereminAntennaByMeshes : ThereminAntennaByVectorsAbstract
 
         m_lastCalculated.SetAsFound(true);
         m_lastCalculated.SetNearestPoint(m_nearestWorldPoint);
-        m_lastCalculated.SetThereminStartPoint();
+       // m_lastCalculated.SetThereminStartPoint();
         m_lastCalculated.SetDistance(GetDistanceOfTheremin(m_nearestWorldPoint));
         Debug.DrawLine(m_start.position, m_nearestWorldPoint, Color.blue, Time.deltaTime);
         Debug.DrawLine(m_end.position, m_nearestWorldPoint, Color.blue, Time.deltaTime);
