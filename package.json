@@ -1,4 +1,3 @@
-
 {                                                                                
   "name": "be.eloistree.thereminvr",                              
   "displayName": "Theremin VR",                        
@@ -7,7 +6,7 @@
   "unityRelease": "",                             
   "description": "Tool to simulate a basic theremin in virtual reality.",                         
   "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
+  "dependencies":{ "be.eloistree.license":"0.0.1"},     
   "relatedPackages":{},     
   "samples" : [],     
   "author" : {
