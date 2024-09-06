@@ -1,5 +1,5 @@
 {                                                                                
-  "name": "be.eloistree.thereminvr",                              
+  "name": "be.elab.thereminvr",                              
   "displayName": "Theremin VR",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
@@ -8,11 +8,18 @@
   "keywords": ["Script","Tool"],                       
   "dependencies":{ "be.eloistree.license":"0.0.1"},     
   "relatedPackages":{},     
-  "samples" : [],     
-  "author" : {
-"name":"",
-"mail":"",
-"url":""},     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },  
   "repository":{
 "type":"Git",
 "url":"https://gitlab.com/EloiStree/2020_06_25_ThereminVR.git",
